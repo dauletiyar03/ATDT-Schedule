@@ -1,0 +1,80 @@
+{
+  "not_registered": {
+    "ru": "❌ Вас нет в списке преподавателей кафедры.",
+    "uz": "❌ Siz kafedra o'qituvchilari ro'yxatida mavjud emassiz"
+  },
+  "choose_schedule": {
+    "ru": "✅ Вас нашли в базе! Выберите дни расписания:",
+    "uz": "✅ Siz bazada mavjudsiz! Dars jadvali kunlarini tanlang"
+  },
+  "help": {
+    "ru": "Это бот для расписания преподавателей!",
+    "uz": "Bu o'qituvchilar jadvali uchun bot"
+  },
+  "today_schedule": {
+    "ru": "\uD83D\uDCC5 Сегодняшнее расписание",
+    "uz": "\uD83D\uDCC5 Bugungi dars jadvali"
+  },
+  "today_schedule_answer": {
+    "ru": "Вот ваше сегодняшнее расписание:",
+    "uz": "Sizning bugungi dars jadvalingiz:"
+  },
+  "tomorrow_schedule": {
+    "ru": "\uD83D\uDCC6 Завтрашнее расписание",
+    "uz": "\uD83D\uDCC6 Ertangi dars jadvali"
+  },
+  "tomorrow_schedule_answer": {
+    "ru": "Вот ваше завтрашння расписание:",
+    "uz": "Ertangi kun dars jadali:"
+  },
+  "weekly_schedule": {
+    "ru": "\uD83D\uDDD3 Недельное расписание",
+    "uz": "\uD83D\uDDD3 Xaftalik dars jadvali"
+  },
+  "weekly_schedule_answer": {
+    "ru": "Выберите день недели вашего расписания:",
+    "uz": "Dars jadvalingizni :"
+  },
+  "the_back_button": {
+    "ru": "Назад",
+    "uz": "Orqaga"
+  },
+  "days_button": {
+    "ru": ["Понедельник","Вторник","Среда","Четверг","Пятница","Суббота"],
+    "uz": ["Dushanba","Seyshanba","Chorshanba","Payshanba","Juma","Shanba"]
+  },
+  "schedule_for": {
+    "ru": "Вот расписание на {day}:",
+    "uz": "{day} kungi dars jadvalingiz:"
+  },
+
+
+  "send_phone": {
+    "ru": "\uD83D\uDCDE Отправить номер телефона",
+    "uz": "\uD83D\uDCDE Telefon raqamini yuborish"
+  },
+  "monday": {
+    "ru": "Понедельник",
+    "uz": "Dushanba"
+  },
+  "tuesday": {
+    "ru": "Вторник",
+    "uz": "Seshanba"
+  },
+  "wednesday": {
+    "ru": "Среда",
+    "uz": "Chorshanba"
+  },
+  "thursday": {
+    "ru": "Четверг",
+    "uz": "Payshanba"
+  },
+  "friday": {
+    "ru": "Пятница",
+    "uz": "Juma"
+  },
+  "saturday": {
+    "ru": "Суббота",
+    "uz": "Shanba"
+  }
+}
