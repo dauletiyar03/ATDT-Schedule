@@ -5,8 +5,6 @@ from aiogram import Bot, Dispatcher
 from app.config import TOKEN_API
 from app.handlers import router, set_bot_commands
 
-#from db import initialize_database
-
 #Создаем бота и маршрутизатор
 bot = Bot(token=TOKEN_API)
 dp = Dispatcher()
@@ -23,7 +21,7 @@ async def main():
 if __name__ == "__main__":
     logging.basicConfig(level=logging.INFO)
     # Инициализируем базу данных
-#    initialize_database()
+    # initialize_database()
     try:
         asyncio.run(main())
     except KeyboardInterrupt:
